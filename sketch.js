@@ -1,4 +1,6 @@
 var mySong;
+var myImage;
+var occhio;
 
 
 function preload(){
